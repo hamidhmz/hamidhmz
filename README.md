@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on python and node.js
+- 🔭 I’m currently working node.js and kubernetes.
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: nasrollahy.hamidreza@gmail.com
 
